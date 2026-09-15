@@ -1,0 +1,6 @@
+{
+  "name": "Interactive Data Visualization Dashboard",
+  "description": "A dynamic multi-chart analytics dashboard supporting diverse visualization types, custom dataset imports (CSV/JSON), dynamic metric aggregation, and interactive filtering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
