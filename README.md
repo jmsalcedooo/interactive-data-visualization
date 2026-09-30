@@ -37,7 +37,3 @@ Once your data is live, use the built-in interface tools to explore your metrics
 * **Filters:** Use the dropdown menus located above the metric cards to filter your data by **Region**, **Category**, **Product**, or **Channel**.
 * **Search:** Use the search bar on the left side of the filter row to look up specific records, dimensions, or categories directly.
 * **Bento Visualizer Matrix:** Scroll down to the matrix section to view active chart layouts and distributions based on your currently filtered dataset. You can also click **Design New Visual** to create custom views.
-
----
-
-*Built applying principles from Google AI Essentials to vibe-code rapid, interactive analytics.*
